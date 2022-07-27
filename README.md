@@ -1,3 +1,6 @@
+#### Deploy on Web heroku 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ridhoobot/Userge)</br>
+
 <p align="center">
     <a href="https://github.com/UsergeTeam/Userge">
         <img src="https://telegra.ph/file/f3aed2f6f2d4a1ad7831d.png" alt="Userge">
