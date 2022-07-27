@@ -59,7 +59,9 @@
 
 > Head over to the [Discussion Group](https://t.me/usergeot) and [Update Channel](https://t.me/theUserge)
 
-### Project Credits 💆‍♂️
+
+### Deploy
+https://heroku.com/deploy?template=https://github.com/UsergeTeam/Userge
 
 * [Specially to these projects](https://github.com/UsergeTeam/Userge#inspiration-) 🥰
 * [Contributors](https://github.com/UsergeTeam/Userge/graphs/contributors) 👥
